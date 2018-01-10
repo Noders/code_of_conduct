@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-> Todos los asistentes, expositores, voluntarios y auspiciadores tanto de los eventos realizados Noders (SantiagoJS, Nodeschool, Conferencias, Eventos, etc) asi como quienes participen e interactuen en cualquiera de las plataformas de redes sociales (Facebook Groups, Slack, Twitter, etc), deberán seguir y respetar nuestro código de conducta.
+> Todos los asistentes, expositores, voluntarios y auspiciadores tanto de los eventos realizados en Noders (SantiagoJS, Nodeschool, Conferencias, etc) asi como quienes participen e interactuen en cualquiera de las plataformas de redes sociales (Facebook Groups, Slack, Twitter, etc), deberán seguir y respetar nuestro código de conducta.
 >
 > La organización siempre se encargará de velar por el cumplimiento y respeto de lo aquí expuesto.
 >
@@ -10,11 +10,11 @@
 
 ### La versión más corta de todas
 
-¿Has visto como luego de algunos eventos, todos terminan hablando de “aquel” que causó un mal rato a uno o más asistentes?. Que no sea de ti de quien hablen :)
+¿Has visto como luego de algunos eventos, todos terminan hablando de “aquel” o "aquella" que causó un mal rato a uno o más asistentes?. Que no sea de ti de quien hablen :)
 
 ### La versión no tan corta
 
-En los eventos desarrollados por Noders (SantiagoJS, Nodeschool, meetups, hackatones, conferencias, etc), buscamos crear un espacio, y una experiencia, libre de acoso.
+En los eventos desarrollados por Noders (SantiagoJS, Nodeschool, Conferencias, etc), asi como en cualquiera de las plataformas de redes sociales (Facebook Groups, Slack, Twitter, etc) buscamos crear un espacio, y una experiencia, libre de acoso.
 Nuestro lema es que todos son bienvenidos, sin importar género, raza, orientación sexual, discapacidades, apariencia física y/o creencias.
 No toleramos el acoso bajo ningún tipo, forma ni contexto, directa o indirectamente. Cualquier participante que viole estas reglas será sancionado y expulsado de este y futuros eventos.
 
