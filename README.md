@@ -15,14 +15,14 @@
 ### La versión no tan corta
 
 En los eventos desarrollados por Noders (SantiagoJS, NodeSchool, Conferencias, etc), asi como en cualquiera de las plataformas de redes sociales (Facebook Groups, Slack, Twitter, etc) buscamos crear un espacio, y una experiencia, libre de acoso.
-Nuestro lema es que todos son bienvenidos, sin importar género, raza, orientación sexual, discapacidades, apariencia física y/o creencias.
+Nuestro lema es que todos son bienvenidos, sin importar género, raza, orientación sexual, capacidades, apariencia física y/o creencias.
 No toleramos el acoso bajo ningún tipo, forma ni contexto, directa o indirectamente. Cualquier participante que viole estas reglas será sancionado y expulsado de este y futuros eventos.
 
 ### La versión más larga
 
 #### ¿Qué se entiende por acoso?
 
-Abuso físico y/o verbal relacionados al género de una persona, orientación sexual, discapacidades, apariencia física, nivel de conocimiento, raza y/o creencias religiosas. Adicionalmente, creación y/o reproducción de imágenes de contenido sexual en espacios públicos, intimidación física y/o verbal, acecho, interrupciones groseras de charlas y/o contacto físico inapropiado.
+Abuso físico y/o verbal relacionados al género de una persona, orientación sexual, capacidades, apariencia física, nivel de conocimiento, raza y/o creencias religiosas. Adicionalmente, creación y/o reproducción de imágenes de contenido sexual en espacios públicos, intimidación física y/o verbal, acecho, interrupciones groseras de charlas y/o contacto físico inapropiado.
 
 La organización se reserva el derecho de solicitar que cualquier comportamiento relacionado a lo anterior que sea visto durante un evento, sea detenido inmediatamente por quien(es) lo realizan. Adicionalmente, quienes atenten contra este código de conducta, podrán ser expulsados de este y futuros eventos.
 
